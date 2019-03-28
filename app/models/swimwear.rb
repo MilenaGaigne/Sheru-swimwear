@@ -1,0 +1,2 @@
+class Swimwear < ApplicationRecord
+end
